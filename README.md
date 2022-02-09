@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petr
-- 👀 I’m interested in Kotlin, Flutter and Java applications
-- 🌱 I’m currently learning Flutter and developing study project
+- 👀 I’m interested in Java technologies
+- 🌱 I’m currently learning Java and developing study project
 
 <!---
 apppetr/apppetr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
